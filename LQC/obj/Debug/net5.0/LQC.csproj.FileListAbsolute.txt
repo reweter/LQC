@@ -1,0 +1,12 @@
+C:\Users\Dima\source\repos\LQC\LQC\bin\Debug\net5.0\LQC.deps.json
+C:\Users\Dima\source\repos\LQC\LQC\bin\Debug\net5.0\LQC.dll
+C:\Users\Dima\source\repos\LQC\LQC\bin\Debug\net5.0\ref\LQC.dll
+C:\Users\Dima\source\repos\LQC\LQC\bin\Debug\net5.0\LQC.pdb
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.AssemblyInfo.cs
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.dll
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\ref\LQC.dll
+C:\Users\Dima\source\repos\LQC\LQC\obj\Debug\net5.0\LQC.pdb
